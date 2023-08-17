@@ -1,8 +1,8 @@
 
 public class Transaction {
-final int productKey;
+final String productKey;
 	
 	public Transaction() {
-	 productKey=(int)(Math.random()*1000000);
+	 productKey="Xn990nmKHEmtq";
 	}
 }
